@@ -14,16 +14,6 @@ Aprendi nesse projeto a utilizar o html e css para a construção de um formulá
 **Fundamentos:** Html e Css.
 
 
-## Instalação
-
-Instalação com npm
-
-```bash
-  git clone git@github.com:GuilhermeFMP/Playground-Functions.git
-  cd Playground-Functions
-  npm install
-```
-    
 ## Autores
 
 - [@guilherme.kuro](https://github.com/GuilhermeFMP)
